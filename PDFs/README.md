@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-> Collected By Anonymous
+> Collected By Arjun Adhikari
 
 <p>Please download the PDF to view it.</p>
 
