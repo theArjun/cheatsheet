@@ -23,3 +23,8 @@
  ## Django
 1. [MercuryTide Django CheatSheet](./CheatSheets/DjangoCheatSheet.pdf)
 
+### Latex
+1. [A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet](./CheatSheets/latex/LatexCheatSheetOne.pdf)
+2. [Reference Sheet for a Thesis with LATEX2e and KOMA-Script](./CheatSheets/latex/LatexCheatSheetTwo.pdf)
+2. [A quick guide to LATEX](./CheatSheets/latex/LatexCheatSheetThree.pdf)
+2. [Latex Cheat Sheet](./CheatSheets/latex/LatexCheatSheetFour.pdf)
