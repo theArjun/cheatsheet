@@ -1,10 +1,25 @@
-# Version Control, Git & GitHub Orientation Workshop
+# Workshop Materials
 
-> Gandaki College of Engineering and Science  
-> December 28, 2018
+## Slides
+1. [Workshop Presentation Slide](PresentationSlides.pdf)
 
-![GCES Logo](https://gces.edu.np/wp-content/uploads/2019/07/gces_logo.png)
+## CheatSheets
 
-This is a demo repository created for illustrating the use of Git and GitHub among students of first and Third semester in GCES.
+### Git
+1. [Github Git CheatSheet](./CheatSheets/GitCheatSheet.pdf)
+2. [Atlassian Git CheatSheet](./CheatSheets/GitCheatSheetTwo.pdf)
+3. [A Tiny CheatSheet on Git](./CheatSheets/GitCheatSheetThree.pdf)
+4. [Gitlab Git CheatSheet](./CheatSheets/GitCheatSheetFour.pdf)
 
-![Welcome](https://i.ibb.co/Mg9Jync/image.png)
+ ## Markdown
+1. [Github Flavoured Markdown CheatSheet](./CheatSheets/MarkDownCheatSheet.pdf)
+
+ ## Linux
+1. [Linux Command Line Cheat Sheet](./CheatSheets/LinuxCommandLineCheatSheet.pdf)
+
+ ## GitHub CLI
+1. [GitHub CLI CheatSheet](./CheatSheets/GHCLICheatSheet.pdf)
+
+ ## Django
+1. [MercuryTide Django CheatSheet](./CheatSheets/DjangoCheatSheet.pdf)
+
