@@ -37,6 +37,9 @@
 ## Markdown
 1. [Github Flavoured Markdown Cheat Sheet](./CheatSheets/MarkDownCheatSheet.pdf)
 
+## VSCode
+1. [Keyboard Shortcut Windows](./CheatSheets/vscode/keyboard-shortcuts-windows.pdf)
+
 ## Linux
 1. [Linux Command Line Cheat Sheet](./CheatSheets/LinuxCommandLineCheatSheet.pdf)
 
