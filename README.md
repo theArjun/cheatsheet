@@ -1,7 +1,7 @@
 # Workshop Materials
 
 ## Slides
-1. [Workshop Presentation Slide](./Presentations/GitWorkshop.pdf)
+1. [Git & GitHub Workshop Presentation Slide](./Presentations/GitWorkshop.pdf)
 
 ## CheatSheets
 
