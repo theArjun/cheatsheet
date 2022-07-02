@@ -40,6 +40,9 @@
 ## VSCode
 1. [Keyboard Shortcut Windows](./CheatSheets/vscode/keyboard-shortcuts-windows.pdf)
 
+## PyCharm
+1. [PyCharm Keyboard Shortuts](./CheatSheets/pycharm/pycharm-keyboard-shortcuts.pdf)
+
 ## Linux
 1. [Linux Command Line Cheat Sheet](./CheatSheets/LinuxCommandLineCheatSheet.pdf)
 
