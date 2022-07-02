@@ -28,6 +28,13 @@
 8. [React Guide](./CheatSheets/react/React20Guide.1743368589.pdf)
 
 
+### Django
+1. [MercuryTide Django Cheat Sheet](./CheatSheets/django/DjangoCheatSheet.pdf)
+2. [Beginner's Python Cheat Sheet – Django](./CheatSheets/django/beginners_python_cheat_sheet_pcc_django.pdf)
+3. [Django Reference Sheet](./CheatSheets/django/django_reference_sheet.pdf)
+4. [Django Cheat Sheet](./CheatSheets/django/django095-cheat-sheet.pdf)
+5. [Django Cheat Sheet by OGR](./CheatSheets/django/ogr_django.bw.pdf)
+
 ### Markdown
 1. [Github Flavoured Markdown Cheat Sheet](./CheatSheets/MarkDownCheatSheet.pdf)
 
@@ -36,7 +43,4 @@
 
 ### GitHub CLI
 1. [GitHub CLI Cheat Sheet](./CheatSheets/GHCLICheatSheet.pdf)
-
-### Django
-1. [MercuryTide Django Cheat Sheet](./CheatSheets/DjangoCheatSheet.pdf)
 
